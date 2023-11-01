@@ -1,4 +1,4 @@
-# Mathematics student
+# Mathematics student with Placement Experience
 
 ## Education
 Mathematics, Bsc Honors, University of Bath, (_2020 - Present_)
@@ -15,13 +15,13 @@ Data Science CW1
 
 
 ## Certifications and Training
-** Microsoft DP-900 **
+**Microsoft DP-900**
 - Data Fundamentals: Covers core data concepts and Azure data services.
 - Data Workloads: Explains transactional, analytical, and batch data processing.
 - Data Storage and Processing: Addresses storage options, ingestion, and processing.
 - Security and Practical Experience: Emphasizes data security, compliance, and hands-on practice with Azure data services.
 
-** Multivariate Data Analysis - OR Society **
+**Multivariate Data Analysis - OR Society**
 - Using machine learning methods such as k-means clustering to evaluate underlying trends across collections of variables.
 - Using principal component analysis (PCA) to simplify multivariate data to a collection of independent variables.
 - Using linear dicriminant analysis to reduce dimensionality and enhance class seperation, allowing future classification of data. 
