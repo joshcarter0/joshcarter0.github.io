@@ -29,3 +29,9 @@ A personal project looking at how LDA can be used to analyse a corpus.
 - Using machine learning methods such as k-means clustering to evaluate underlying trends across collections of variables.
 - Using principal component analysis (PCA) to simplify multivariate data to a collection of independent variables.
 - Using linear dicriminant analysis to reduce dimensionality and enhance class seperation, allowing future classification of data. 
+
+
+## Skills
+- R - data wrangling and visualisation
+- Python - large dataset manipulation and machine learning
+- SQL (SSMS) - 
