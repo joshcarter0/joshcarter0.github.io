@@ -1,7 +1,7 @@
 # Mathematics student
 
 ## Education
-Mathematics, Bsc Honors
+Mathematics, Bsc Honors, University of Bath, (_2020 - Present_)
 
 ## Work Experience
 **Placement Analyst - ORH (_August 2022 - July 2023_)**
@@ -12,3 +12,16 @@ Mathematics, Bsc Honors
   
 ## Academic and Personal Projects
 Data Science CW1
+
+
+## Certifications and Training
+** Microsoft DP-900 **
+- Data Fundamentals: Covers core data concepts and Azure data services.
+- Data Workloads: Explains transactional, analytical, and batch data processing.
+- Data Storage and Processing: Addresses storage options, ingestion, and processing.
+- Security and Practical Experience: Emphasizes data security, compliance, and hands-on practice with Azure data services.
+
+** Multivariate Data Analysis - OR Society **
+- Using machine learning methods such as k-means clustering to evaluate underlying trends across collections of variables.
+- Using principal component analysis (PCA) to simplify multivariate data to a collection of independent variables.
+- Using linear dicriminant analysis to reduce dimensionality and enhance class seperation, allowing future classification of data. 
