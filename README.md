@@ -11,8 +11,12 @@ Mathematics, Bsc Honors, University of Bath, (_2020 - Present_)
 - Configuring optimal deployment strategies for Fire and Ambulance services worldwide.
   
 ## Academic and Personal Projects
-Data Science CW1
+**Data Science CW1**
+An academic project looking at data manipulation and visualisation in R.
+[Github Project](updateme.com)
 
+**Latent Dirichlet Allocation**
+A personal project looking at how LDA can be used to analyse a corpus.
 
 ## Certifications and Training
 **Microsoft DP-900**
