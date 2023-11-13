@@ -13,10 +13,11 @@ Mathematics, Bsc Honors, University of Bath, (_2020 - Present_)
 ## Academic and Personal Projects
 ### Data Science CW1
 An academic project looking at data manipulation and visualisation in R.
-[Github Project](updateme.com)
+[Github Project](https://github.com/HarryRogers0/Data-Science-Coursework-1)
 
-### Latent Dirichlet Allocation
-A personal project looking at how LDA can be used to analyse a corpus.
+### Numerical Analysis Coursework
+An academic project studying a group of integrals and numerical approximations to solve them.
+[Github Project](https://github.com/HarryRogers0/Numerical-Analysis-Coursework)
 
 ## Certifications and Training
 **Microsoft DP-900**
@@ -34,4 +35,4 @@ A personal project looking at how LDA can be used to analyse a corpus.
 ## Skills
 - R - data wrangling and visualisation
 - Python - large dataset manipulation and machine learning
-- SQL (SSMS) - 
+- SQL (SSMS) - Large database manipulation and queries.
