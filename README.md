@@ -1,7 +1,7 @@
-# Mathematics student with Placement Experience
+# Mathematics student with work experience
 
 ## Education
-Mathematics, Bsc Honors, University of Bath, (_2020 - Present_)
+Mathematics, Mmath Honors, University of Bath, (_2020 - Present_)
 
 ## Work Experience
 **Placement Analyst - ORH (_August 2022 - July 2023_)**
