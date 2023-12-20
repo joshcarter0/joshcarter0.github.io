@@ -1,14 +1,15 @@
 # Mathematics student with work experience
 
 ## Education
-Mathematics, Mmath Honors, University of Bath, (_2020 - Present_)
+Masters in Mathematics, MMath Honors, University of Bath, (_2020 - Present_)
 
 ## Work Experience
-**Placement Analyst - ORH (_August 2022 - July 2023_)**
-- Process large datasets using a variety of tools including SQL, Mapinfo, Excel and Python.
-- Setting up and validating propriatary simulation models against large datasets.
-- Providing succinct and meaningful analysis and conveying it to a range of audiences.
-- Configuring optimal deployment strategies for Fire and Ambulance services worldwide.
+**Coordinator - NHS; Birmingham Women's Hospital (_Month1 2022 - Month2 2023_)**
+- Description.
+- More description.
+- More description.
+- More description.
+
   
 ## Academic and Personal Projects
 ### Data Science CW1
