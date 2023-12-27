@@ -1,9 +1,18 @@
+#Website under development
+
 # Mathematics student with work experience
 
-## Education
-Masters in Mathematics, MMath Honors, University of Bath, (_2020 - Present_)
+## Education at the University of Bath
+Masters in Mathematics (MMath Honors), (_2020 - Present_)
+Intermediate German (part 1) - certificate of accomplishment acheived, 2021
 
 ## Work Experience
+**Coordinator - NHS; Birmingham Women's Hospital (_Month1 2022 - Month2 2023_)**
+- Description.
+- More description.
+- More description.
+- More description.
+
 **Coordinator - NHS; Birmingham Women's Hospital (_Month1 2022 - Month2 2023_)**
 - Description.
 - More description.
