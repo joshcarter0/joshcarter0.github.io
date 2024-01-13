@@ -6,7 +6,7 @@
 
   
 ## Education at the University of Bath
-- Masters in Mathematics (MMath Honors), (_2020 - Present_)
+- Master's in Mathematics (MMath Honors), (_2020 - Present_)
 - Intermediate German (part 1) - certificate of accomplishment acheived, 2021
 
 ## Work Experience
