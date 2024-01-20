@@ -9,15 +9,15 @@
 
 ## Work Experience
 **Coordinator - NHS; Birmingham Women's Hospital (_June 2023 - October 2023_)**
-- Key exposure: Excel proficiency, great interpersonal relationships with upper management and the wider multi professional team and analytical skills; experience creating mathematical models to aid business cases
+- Exposure: Excel proficiency, great interpersonal relationships with upper management and the wider multi professional team and analytical skills; experience creating mathematical models to aid business cases
 
 
 **Property Inventory Contractor - No Letting Go; Bath and surrounding areas (_June 2022 - October 2022_)**
-- Key exposure: attention to detail, report writing and independent working.
+- Exposure: profesionalism, independent working and report writing; attention to detail.
 
    
 **Administrative Assistant - NHS; Birmingham Women's Hospital (_June 2021 - September 2021_)**
-- Key exposure: communication, teamwork and versitility in role.
+- Exposure: communication, teamwork and versitility in role.
 
 
 
@@ -26,6 +26,6 @@
 **R Studios**
 **Haskell**
 **LaTeX**
-
+**Microsoft Office**
 
 
