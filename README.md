@@ -29,9 +29,3 @@
 
 
 
-
-
-
-## Academic study
-### Data Science CW1
-
