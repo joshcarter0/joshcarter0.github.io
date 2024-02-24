@@ -13,7 +13,7 @@
 
 
 **Property Inventory Contractor - No Letting Go; Bath and surrounding areas (_June 2022 - October 2022_)**
-- Exposure: profesionalism, independent working and report writing; attention to detail.
+- Exposure: professionalism, independent working and report writing; attention to detail.
 
    
 **Administrative Assistant - NHS; Birmingham Women's Hospital (_June 2021 - September 2021_)**
